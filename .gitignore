@@ -2,3 +2,5 @@ data/XBTUSD_1.csv
 .idea
 .DS_Store
 .localconfig
+.aws
+__pycache__

@@ -4,9 +4,6 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 import decimal
 import time
-
-import krakenex
-
 import api
 import fetcher
 import series
